@@ -37,8 +37,8 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"CN"
-#define DEF_WLAN_2G_SSID	BOARD_PID "tianya"
-#define DEF_WLAN_5G_SSID	BOARD_PID "tianya_5G"
+#define DEF_WLAN_2G_SSID	BOARD_PID "pcdn"
+#define DEF_WLAN_5G_SSID	BOARD_PID "pcdn_5G"
 #define DEF_WLAN_2G_GSSID	BOARD_PID "_GUEST_%s"
 #define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
 #define DEF_WLAN_2G_PSK		"12345678"
